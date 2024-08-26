@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects to improve my skills
 - 📫 How to reach me taiyet96@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: i just got into tect 3 months ago
+- ⚡ Fun fact: i just got into tech 3 months ago
 
 <!---
 codestar141/codestar141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
